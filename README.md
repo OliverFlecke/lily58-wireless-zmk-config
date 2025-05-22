@@ -8,6 +8,8 @@ Edit the lily58.keymap file to your liking. You can find this file in the config
 For documentation on customizing your keymap, check out the ZMK documentation.
 [Alternatively, use the visual online keymap editor by Nick Coutsos](https://nickcoutsos.github.io/keymap-editor/)
 
+[Keymap documentation](https://zmk.dev/docs/keymaps/list-of-keycodes)
+
 ## Installing firmware
 
  1. Plug in your nice!nano to your computer.
